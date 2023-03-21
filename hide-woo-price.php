@@ -1,9 +1,9 @@
 <?php
 /**
-* Plugin Name: Hide Woocommerce Price Until Logged In
-* Plugin URI: https://github.com/anthonyraudino/WooCommerce-Hide-Price-Until-Logged-In
+* Plugin Name: Plygnd Hide Woo Price Until Logged In
+* Plugin URI: https://github.com/anthonyraudino/Plygnd-Woo-Hide-Price-Until-Logged-In/
 * Description: Wordpress/Woocommerce plugin to hide the price and add to cart buttons on frontend while not logged in as any user.
-* Version: 0.4.1
+* Version: 0.4.5
 * Author: Anthony Raudino
 * Author URI: https://github.com/anthonyraudino/
 **/
